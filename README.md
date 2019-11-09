@@ -1,5 +1,4 @@
-![alt text](https://github.com/NikhilKu/IOT-Smart-Fired/blob/master/client/src/img/logo.svg  =250x "Logo")
-
+![](./client/src/img/logo.svg  =100x20)
 # Smart Fired
 
 Smart Fired is the great fire detector for home. This project is made for the minor Internet of Things. 
