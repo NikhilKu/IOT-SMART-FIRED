@@ -1,4 +1,5 @@
-![](./client/src/img/logo.svg  =100x20)
+<img src="./client/src/img/logo.svg" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="200" />
+
 # Smart Fired
 
 Smart Fired is the great fire detector for home. This project is made for the minor Internet of Things. 
