@@ -8,8 +8,8 @@ Smart Fired is the great fire detector for home. This project is made for the mi
 ## Sub projects 
 You can find more information about installation and usage in the readme of the sub folders:
  
- * [Server - NodeJS - Back-end of the application with ExpressJS](./client)
- * [Front-end - Javascript - Front-end of the application with ReactJS](https://github.com/NikhilKu/IOT-Smart-Fired/tree/master/server)
+ * [Server - NodeJS - Back-end of the application with ExpressJS](./server)
+ * [Front-end - Javascript - Front-end of the application with ReactJS](./client)
 
 
 ## License
