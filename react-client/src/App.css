@@ -1,0 +1,57 @@
+
+body {
+    background: #111214 !important;
+    color: #d6d6d6 !important;
+}
+
+.logo {
+    filter: invert(100%);
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+.btn-warning-custom{
+  background-color:#e19a3e;
+  border-color: #e1ad1f ;
+  color:#111214;
+}
+
+.content {
+    min-height: 100vh;
+    padding: 2rem;
+}
+
+.temperature {
+    font-size: 7rem;
+    text-align: center;
+    color: #e19a3e;
+}
+
+.degrees-text {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: -40px;
+    font-size: 2rem;
+}
+
+.orange-text {
+    color: #e19a3e;
+}
+
+thead {
+    color: #e19a3e;
+}
+
+.hidden {
+    display: none;
+}
+
+.loader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.loading{
+    max-height:100vh;
+}
