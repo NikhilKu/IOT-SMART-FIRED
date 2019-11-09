@@ -1,4 +1,4 @@
-![alt text](https://github.com/NikhilKu/IOT-Smart-Fired/blob/master/client/src/img/logo.svg "Logo")
+![alt text](https://github.com/NikhilKu/IOT-Smart-Fired/blob/master/client/src/img/logo.svg  =250x "Logo")
 
 # Smart Fired
 
