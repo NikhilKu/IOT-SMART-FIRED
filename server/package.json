@@ -19,6 +19,6 @@
     "pg": "^7.12.1",
     "rethinkdb": "^2.3.3",
     "sequelize": "^5.21.2",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
